@@ -1,0 +1,22 @@
+{
+  "name": "prueba-bootstrap",
+  "version": "1.0.0",
+  "description": "prueba con bootstrap y node.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acv2can/prueba-bootstrap.git"
+  },
+  "author": "knd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acv2can/prueba-bootstrap/issues"
+  },
+  "homepage": "https://github.com/acv2can/prueba-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
